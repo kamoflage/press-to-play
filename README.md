@@ -1,1 +1,1 @@
-# press-to-play.html
+# press-to-play
